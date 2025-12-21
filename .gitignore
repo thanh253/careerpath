@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+.idea/
+# Private project files
+Careerpath/settings.py
+trend/management/commands/fetch_data.py
