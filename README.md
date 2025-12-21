@@ -1,2 +1,2 @@
 # careerpath
-project for exe
+project Experiential Entrepreneurship
