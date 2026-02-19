@@ -1,5 +1,5 @@
-# careerpath
-project Experiential Entrepreneurship
+# Careerpath
+Project Experiential Entrepreneurship
 # CareerPath – Career Recommendation Web Platform
 
 CareerPath is a Django-based web application that provides structured career assessment and personalized recommendations for students.
